@@ -12,6 +12,7 @@ namespace TestGithub3
         {
             Console.WriteLine("test Github!");
             Console.ReadKey();
+            Console.ReadKey();
         }
     }
 }
