@@ -10,9 +10,7 @@ namespace TestGithub3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test Github!");
-            Console.WriteLine("test branch!");
-            Console.WriteLine("default brand master");
+            Console.WriteLine("test Github!");            
         }
     }
 }
