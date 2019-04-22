@@ -9,8 +9,7 @@ namespace TestGithub3
     class Program
     {
         static void Main(string[] args)
-        {                
-            Console.WriteLine("test commit changes!");
+        {  
             Console.WriteLine("test push changes!");
         }
     }
