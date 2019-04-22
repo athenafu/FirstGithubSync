@@ -12,6 +12,7 @@ namespace TestGithub3
         {
             Console.WriteLine("test Github!");     
             Console.WriteLine("test commit changes!");
+            Console.WriteLine("test push changes!");
         }
     }
 }
