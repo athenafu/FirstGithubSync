@@ -2,7 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\TestGithub3",
-    "\\TestGithub3\\bin"
+    "\\TestGithub3\\bin",
+    "\\TestGithub3\\obj\\Debug"
   ],
   "SelectedNode": "\\TestGithub3\\Program.cs",
   "PreviewInSolutionExplorer": false
